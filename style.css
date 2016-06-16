@@ -1,3 +1,18 @@
 body {
+	background-color: #151515;
+	color: white;
 	font-family: 'Oswald', sans-serif;
+	text-align: center;
+}
+ul {
+	list-style:none;
+}
+li {
+	display: inline;
+	margin: 20px;
+}
+a {
+	text-decoration: none;
+	
+	color: #bdbdbd;
 }
